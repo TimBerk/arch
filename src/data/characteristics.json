@@ -1,0 +1,86 @@
+{
+  "agility": {
+    "label": "Agility",
+    "description": "Гибкость архитектуры - способность быстро адаптироваться к изменениям требований"
+  },
+  "abstraction": {
+    "label": "Abstraction",
+    "description": "Уровень абстракции - степень скрытия деталей реализации"
+  },
+  "configurability": {
+    "label": "Configurability",
+    "description": "Конфигурируемость - простота настройки системы под разные требования"
+  },
+  "cost": {
+    "label": "Cost",
+    "description": "Стоимость - общие затраты на разработку и поддержку (1 - высокие, 5 - низкие)"
+  },
+  "deployability": {
+    "label": "Deployability",
+    "description": "Простота развертывания - легкость установки и обновления системы"
+  },
+  "domain_part": {
+    "label": "Domain Partitioning",
+    "description": "Разделение предметной области - насколько хорошо архитектура отражает домен"
+  },
+  "elasticity": {
+    "label": "Elasticity",
+    "description": "Эластичность - способность масштабироваться под нагрузку"
+  },
+  "evolvability": {
+    "label": "Evolvability",
+    "description": "Эволюционируемость - простота внесения изменений в систему"
+  },
+  "fault-tolerance": {
+    "label": "Fault Tolerance",
+    "description": "Отказоустойчивость - способность работать при частичных отказах"
+  },
+  "interation": {
+    "label": "Interaction",
+    "description": "Взаимодействие - простота интеграции между компонентами"
+  },
+  "interoperability": {
+    "label": "Interoperability",
+    "description": "Совместимость - способность работать с другими системами"
+  },
+  "maintainability": {
+    "label": "Maintainability",
+    "description": "Поддерживаемость - легкость исправления ошибок и обновления"
+  },
+  "modifiability": {
+    "label": "Modifiability",
+    "description": "Модифицируемость - простота внесения изменений"
+  },
+  "modularity": {
+    "label": "Modularity",
+    "description": "Модульность - степень разделения на независимые компоненты"
+  },
+  "performance": {
+    "label": "Performance",
+    "description": "Производительность - скорость работы системы"
+  },
+  "reliablity": {
+    "label": "Reliability",
+    "description": "Надежность - стабильность работы системы"
+  },
+  "scalability": {
+    "label": "Scalability",
+    "description": "Масштабируемость - возможность увеличения мощности системы"
+  },
+  "security": {
+    "label": "Security",
+    "description": "Безопасность - защищенность от внешних угроз"
+  },
+  "simplicity": {
+    "label": "Simplicity",
+    "description": "Простота - легкость понимания и использования архитектуры"
+  },
+  "testability": {
+    "label": "Testability",
+    "description": "Тестируемость - простота написания и выполнения тестов"
+  },
+  "workflow": {
+    "label": "Workflow",
+    "description": "Поддержка рабочих процессов - соответствие бизнес-процессам"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "architectures": {
+    "RDBMS": {
+      "Ease of learning curve": 4,
+      "Ease of data modeling": 3,
+      "Scalability/Throughput": 2,
+      "Availability/Partition tolerance": 1,
+      "Consistency": 5,
+      "Prog lang support, SQL support, community": 4,
+      "Read/Write priority (lower-better)": "2R/2W"
+    },
+    "Key-Value": {
+      "Ease of learning curve": 3,
+      "Ease of data modeling": 1,
+      "Scalability/Throughput": 4,
+      "Availability/Partition tolerance": 4,
+      "Consistency": 2,
+      "Prog lang support, SQL support, community": 3,
+      "Read/Write priority (lower-better)": "1R/3W"
+    },
+    "Document": {
+      "Ease of learning curve": 3,
+      "Ease of data modeling": 3,
+      "Scalability/Throughput": 2,
+      "Availability/Partition tolerance": 3,
+      "Consistency": 2,
+      "Prog lang support, SQL support, community": 3,
+      "Read/Write priority (lower-better)": "1R/3W"
+    },
+    "Column Family": {
+      "Ease of learning curve": 2,
+      "Ease of data modeling": 1,
+      "Scalability/Throughput": 4,
+      "Availability/Partition tolerance": 4,
+      "Consistency": 1,
+      "Prog lang support, SQL support, community": 2,
+      "Read/Write priority (lower-better)": "3R/1W"
+    },
+    "Graph": {
+      "Ease of learning curve": 1,
+      "Ease of data modeling": 2,
+      "Scalability/Throughput": 3,
+      "Availability/Partition tolerance": 3,
+      "Consistency": 3,
+      "Prog lang support, SQL support, community": 2,
+      "Read/Write priority (lower-better)": "1R/3W"
+    },
+    "NewSQL": {
+      "Ease of learning curve": 3,
+      "Ease of data modeling": 3,
+      "Scalability/Throughput": 3,
+      "Availability/Partition tolerance": 3,
+      "Consistency": 2,
+      "Prog lang support, SQL support, community": 2,
+      "Read/Write priority (lower-better)": "2R/2W"
+    },
+    "CloudNative": {
+      "Ease of learning curve": 2,
+      "Ease of data modeling": 2,
+      "Scalability/Throughput": 4,
+      "Availability/Partition tolerance": 3,
+      "Consistency": 3,
+      "Prog lang support, SQL support, community": 2,
+      "Read/Write priority (lower-better)": "1R/3W"
+    },
+    "TimeSeries": {
+      "Ease of learning curve": 1,
+      "Ease of data modeling": 2,
+      "Scalability/Throughput": 4,
+      "Availability/Partition tolerance": 2,
+      "Consistency": 3,
+      "Prog lang support, SQL support, community": 2,
+      "Read/Write priority (lower-better)": "1R/3W"
+    }
+  }
+}
